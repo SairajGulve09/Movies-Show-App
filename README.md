@@ -1,6 +1,6 @@
 # QuadB-Tech
 
-# Movies Shows App
+# Movies Shows App (https://gleeful-pudding-29bcca.netlify.app/)
 
 This is a React.js application that allows users to browse and view details of popular TV shows and movies.
 
