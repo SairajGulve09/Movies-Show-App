@@ -1,0 +1,12 @@
+.footer-section{
+    background-color: #e50914;
+    font-size: 4.8rem;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    height: 10vh;
+    width: auto;
+    padding-top: 2.4rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

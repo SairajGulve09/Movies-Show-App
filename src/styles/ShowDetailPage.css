@@ -1,0 +1,103 @@
+
+.show-detail-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.back-to-home-link {
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .show-image {
+    max-width: 20%; 
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+ 
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.show-image {
+  max-width: 20%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.show-summary {
+  margin-bottom: 20px;
+}
+
+.booking-form {
+  margin-top: 20px;
+}
+
+.booking-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.booking-form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.booking-form button {
+  background-color: #e50914;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.booking-form button:hover {
+  background-color: #f40612;
+}
+
+.back-link {
+  display: block;
+  margin-top: 20px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.book-ticket-btn{
+    background-color: #e50914;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+    
+}

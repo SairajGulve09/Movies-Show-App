@@ -1,0 +1,42 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .show-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .show-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .show-image-first {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .show-name {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .show-summary-link {
+    display: block;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+
+ h1{
+    color: #e50914;
+ }
+  
